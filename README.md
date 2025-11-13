@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👩‍💻 Lê Gia Bảo 
+**Data Analyst**  
+📍 Ho Chi Minh City | 📧 lebao545@gmail.com
 
-<!--
-**Bao28072002/Bao28072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📊 Featured Projects
+
+### [Ecommerce Web Performance & Purchase Behavior Analysis | SQL, BigQuery](https://github.com/Bao28072002/SQL_Ecommerce_Project_Instruction)  
+This project analyzes an E-commerce dataset using SQL in Google BigQuery, based on Google Analytics data. It focuses on extracting key business insights, including user behavior, revenue trends, bounce rates, cohort analysis, and purchase patterns.
