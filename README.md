@@ -61,6 +61,6 @@ This project focuses on predicting and segmenting churned customers in an e-comm
 
 ## 🤝 Let's Connect
 
-💌 nguyenhoangdouyen@gmail.com  
+💌 lebao545@gmail.com  
 🔗 [LinkedIn]()  
 📂 [My GitHub Projects](https://github.com/Bao28072002?tab=repositories)
