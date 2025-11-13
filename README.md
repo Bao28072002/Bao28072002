@@ -30,11 +30,8 @@ In this project, the RFM model was implemented in Python (Colab) to automaticall
 
 ---
 
-### [Ecommerce Web Performance & Purchase Behavior Analysis | SQL, BigQuery](https://github.com/Bao28072002/SQL_Ecommerce_Project_Instruction)  
-This project analyzes an E-commerce dataset using SQL in Google BigQuery, based on Google Analytics data. It focuses on extracting key business insights, including user behavior, revenue trends, bounce rates, cohort analysis, and purchase patterns.
-
----
-
+### [Churn Prediction & Segmentation For Retention Strategy For Ecommerce | Machine Learning - Python](https://github.com/Bao28072002/Ecommerce-Churn-Prediction-ML)  
+This project focuses on predicting and segmenting churned customers in an e-commerce business using Machine Learning and Python. It identifies key churn drivers, builds a predictive model to forecast customer churn, and segments users for personalized retention strategies—helping businesses reduce churn and enhance customer lifetime value.
 
 ---
 
