@@ -1,4 +1,4 @@
-# 👩‍💻 Lê Gia Bảo 
+# 👨‍💻 Lê Gia Bảo 
 **Data Analyst**  
 📍 Ho Chi Minh City | 📧 lebao545@gmail.com
 
