@@ -8,6 +8,30 @@
 
 ---
 
+## 🛠️ Technical Skills
+
+* **Programming & Query Languages:** Python (Pandas, Seaborn), SQL (JOINS, CTEs, Window Functions)
+* **Data Platforms & Tools:** Google BigQuery, SQL Server ,Microsoft Excel
+* **Business Intelligence (BI):** Power BI
+
+## 📊 Analytical Skills
+
+* **Modeling & Statistics:** Hypothesis Testing, Clustering, RFM Modeling
+* **Data Visualization & Reporting:** Dashboarding
+
+---
+
+## 🎓 Education & Certifications
+
+**Bachelor of Data Science** – Nguyễn Tất Thành University (GPA 3.12)  
+
+
+**Certifications**  
+- **SQL Advanced, Python** (HackerRank)  
+- **Data Coaching 1:1** (Unigap)
+
+---
+
 ## 📊 Featured Projects
 
 ### [Ecommerce Web Performance & Purchase Behavior Analysis | SQL, BigQuery](https://github.com/Bao28072002/SQL_Ecommerce_Project_Instruction)  
@@ -32,30 +56,6 @@ In this project, the RFM model was implemented in Python (Colab) to automaticall
 
 ### [Churn Prediction & Segmentation For Retention Strategy For Ecommerce | Machine Learning - Python](https://github.com/Bao28072002/Ecommerce-Churn-Prediction-ML)  
 This project focuses on predicting and segmenting churned customers in an e-commerce business using Machine Learning and Python. It identifies key churn drivers, builds a predictive model to forecast customer churn, and segments users for personalized retention strategies—helping businesses reduce churn and enhance customer lifetime value.
-
----
-
-## 🛠️ Technical Skills
-
-* **Programming & Query Languages:** Python (Pandas, Seaborn), SQL (JOINS, CTEs, Window Functions)
-* **Data Platforms & Tools:** Google BigQuery, SQL Server ,Microsoft Excel
-* **Business Intelligence (BI):** Power BI
-
-## 📊 Analytical Skills
-
-* **Modeling & Statistics:** Hypothesis Testing, Clustering, RFM Modeling
-* **Data Visualization & Reporting:** Dashboarding
-
----
-
-## 🎓 Education & Certifications
-
-**Bachelor of Data Science** – Nguyễn Tất Thành University (GPA 3.12)  
-
-
-**Certifications**  
-- **SQL Advanced, Python** (HackerRank)  
-- **Data Coaching 1:1** (Unigap)
 
 ---
 
