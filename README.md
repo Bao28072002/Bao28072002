@@ -27,7 +27,7 @@
 
 
 **Certifications**  
-- **SQL Advanced, Python** (HackerRank)  
+- **SQL Advanced** (HackerRank)  
 - **Data Coaching 1:1** (Unigap)
 
 ---
