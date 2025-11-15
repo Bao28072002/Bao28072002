@@ -39,7 +39,7 @@ This project analyzes an E-commerce dataset using SQL in Google BigQuery, based 
 
 ---
 
-### [Sales Performance & Market Expansion For A Global Superstore | Power BI](https://github.com/Bao28072002/SQL_Ecommerce_Project_Instruction](https://github.com/Bao28072002/GlobalSuperstore_Sales_MarketBI)  
+### [Sales Performance & Market Expansion For A Global Superstore | Power BI](https://github.com/Bao28072002/GlobalSuperstore_Sales_MarketBI)  
 Consolidating 50K+ order records from three CSV files via Power Query for refinement and processing, I then engineered a data model, utilized Design Thinking to create a highly interactive Power BI dashboard, leveraging DAX for vital metrics and visuals, which yielded strategic insights for market growth and product enhancement
 
 ---
