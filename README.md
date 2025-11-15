@@ -6,6 +6,8 @@
 
 ## 👋 About Me
 
+I am a passionate Data Analyst aspirant with a solid technical foundation in Object-Oriented Programming (Java OOP) and Database Management Systems (DBMS). I leverage my understanding of system architecture and source data structure to perform in-depth analysis using SQL and Python (Pandas, NumPy). My goal is to transform data into strategic insights, driving performance and supporting evidence-based business decisions.
+
 ---
 
 ## 🛠️ Technical Skills
