@@ -41,6 +41,11 @@ This project analyzes an E-commerce dataset using SQL in Google BigQuery, based 
 
 ---
 
+### [Customer Segmentation & RFM Analysis for ShopNow E-commerce|SQL](https://github.com/Bao28072002/ShopNow-RFM-Analysis)  
+Analyze ShopNow’s historical e-commerce data using SQL to understand customer behavior, segment users, and optimize lifetime value and revenue. End-to-end analytics from data cleaning to RFM and CLV insights.
+
+---
+
 ### [Sales Performance & Market Expansion For A Global Superstore | Power BI](https://github.com/Bao28072002/GlobalSuperstore_Sales_MarketBI)  
 Consolidating 50K+ order records from three CSV files via Power Query for refinement and processing, I then engineered a data model, utilized Design Thinking to create a highly interactive Power BI dashboard, leveraging DAX for vital metrics and visuals, which yielded strategic insights for market growth and product enhancement
 
