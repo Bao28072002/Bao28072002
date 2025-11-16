@@ -51,11 +51,6 @@ Consolidating 50K+ order records from three CSV files via Power Query for refine
 
 ---
 
-### [Ecommerce Web Performance & Purchase Behavior Analysis | SQL, BigQuery](https://github.com/Bao28072002/SQL_Ecommerce_Project_Instruction)  
-This project analyzes an E-commerce dataset using SQL in Google BigQuery, based on Google Analytics data. It focuses on extracting key business insights, including user behavior, revenue trends, bounce rates, cohort analysis, and purchase patterns.
-
----
-
 ### [Customer Segmentation For Marketing Campaigns in A Retail Global SuperStore | Python](https://github.com/Bao28072002/Python_Retail_Online_Dataset)
 In this project, the RFM model was implemented in Python (Colab) to automatically segment customers based on their purchasing behavior, enabling the Marketing team to launch personalized customer retention and acquisition campaigns for the holiday season and replacing manual segmentation for large-scale datasets.
 
