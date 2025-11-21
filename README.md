@@ -51,6 +51,10 @@ Consolidating 50K+ order records from three CSV files via Power Query for refine
 
 ---
 
+### [Purchasing Performance and Operational Optimization at AdventureWorks | Power BI](https://github.com/Bao28072002/Purchasing-Performance-and-Operational-Optimization-at-AdventureWorks)  
+This interactive dashboard monitors purchasing efficiency and cost optimization, enabling AdventureWorks to secure timely, cost-effective supply for its manufacturing operations
+---
+
 ### [Customer Segmentation For Marketing Campaigns in A Retail Global SuperStore | Python](https://github.com/Bao28072002/Python_Retail_Online_Dataset)
 In this project, the RFM model was implemented in Python (Colab) to automatically segment customers based on their purchasing behavior, enabling the Marketing team to launch personalized customer retention and acquisition campaigns for the holiday season and replacing manual segmentation for large-scale datasets.
 
