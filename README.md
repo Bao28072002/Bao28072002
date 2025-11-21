@@ -52,7 +52,8 @@ Consolidating 50K+ order records from three CSV files via Power Query for refine
 ---
 
 ### [Purchasing Performance and Operational Optimization at AdventureWorks | Power BI](https://github.com/Bao28072002/Purchasing-Performance-and-Operational-Optimization-at-AdventureWorks)  
-This interactive dashboard monitors purchasing efficiency and cost optimization, enabling AdventureWorks to secure timely, cost-effective supply for its manufacturing operations
+An interactive dashboard to track purchasing efficiency and cost optimization, helping AdventureWorks ensure timely, cost-effective supply for manufacturing.
+
 ---
 
 ### [Customer Segmentation For Marketing Campaigns in A Retail Global SuperStore | Python](https://github.com/Bao28072002/Python_Retail_Online_Dataset)
